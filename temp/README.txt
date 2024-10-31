@@ -1,0 +1,1 @@
+This directory is used to hold data prior to loading the database. Do not delete.
